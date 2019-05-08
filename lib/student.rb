@@ -9,5 +9,9 @@ end
 def learn 
   
 end
+
+def knowledge
+  @knowledge
+end
   
 end
