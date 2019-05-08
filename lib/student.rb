@@ -10,7 +10,7 @@ def learn
   
 end
 
-def self.knowledge
+def knowledge
   @knowledge
 end
   
